@@ -13,7 +13,6 @@ To train a classifier on the famous Iris dataset and predict species using featu
 - Jupyter Notebook (optional)
 
 ## 📊 Dataset
-## 📊 Dataset
 The dataset file [`iris.csv`](./iris_dataset.csv) is included in this repository.
 
 
